@@ -4,14 +4,14 @@ export default function(){
   return (
     <div>
         <nav className='flex justify-between container mx-auto mt-2'>
-            <img className='object-fill' src={Logo} alt="" />
+            <img className='object-contain' src={Logo} alt="" />
 
             <ul className='flex gap-6 items-center'>
                 <li className='text-regal-blue'>Home</li>
                 <li>Technologies</li>
                 <li>Projects</li>
                 <li>Projects</li>
-                <li> About</li>
+                <li>About</li>
                 <li>Contact</li>
             </ul>
 
