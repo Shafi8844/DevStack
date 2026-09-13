@@ -144,7 +144,7 @@
     "name": "Microsoft Azure",
     "category": "DevOps",
     "description": "A cloud computing platform offering services for hosting, databases, storage, networking, and application deployment.",
-    "icon": "https://cdn.simpleicons.org/microsoftazure",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftazure.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Cloud"
