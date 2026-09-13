@@ -17,7 +17,7 @@ export default function(){
 
             <div className='flex gap-3 items-center max-md:hidden'>
                 <button>Sign In</button>
-                <button className='text-white bg-regal-blue rounded-3xl w-24 h-12'>Sign Up</button>
+                <button className='text-white bg-(image:--gradient-brand) rounded-3xl w-24 h-12'>Sign Up</button>
             </div>
             <button className='text-xl max-md:block md:hidden'>☰</button>
         </nav>

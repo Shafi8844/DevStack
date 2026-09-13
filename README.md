@@ -1,4 +1,4 @@
-# Dev Stack
+ # Dev Stack
 
 ![Dev Stack](./src/assets/banner-stack.png)
 

@@ -7,7 +7,7 @@ const footer = () => {
             <img className='mx-auto w-[168px] sm:mx-0 sm:w-auto' src={Logo} alt="Dev Stack" />
             <p className='mx-auto max-w-[920px] text-2xl leading-[1.65] text-[#6B7280] sm:mx-0 sm:max-w-none sm:text-base sm:leading-normal sm:text-inherit'>Curated tools, technologies, and resources for developers building
             modern software.</p>
-            <div className='flex items-center justify-center gap-8 text-2xl text-[#4B5563] sm:hidden'>
+            <div className='flex items-center justify-center gap-8 text-2xl text-[#4B5563] sm:justify-start sm:gap-4 sm:text-base'>
                 <p>GitHub</p>
                 <span className='text-xl font-bold'>•</span>
                 <p>Twitter</p>

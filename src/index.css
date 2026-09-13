@@ -8,6 +8,10 @@
     --font-inter: "Inter", sans-serif;
 }
 
+:root {
+    --gradient-brand: linear-gradient(65deg, #f97316 0%, #ec4899 50%, #8b5cf6 100%);
+}
+
 body {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
