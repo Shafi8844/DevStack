@@ -9,10 +9,13 @@ export interface StackProps{
   setYourStack: Dispatch<SetStateAction<StackDataType[]>>
 }
 
+
 const stackcards = ({eachstack,yourStack,setYourStack}:StackProps) => {
 
   const [isSelected,setSeleted]=useState(false);
   const isInStack = yourStack.some((item) => item.id === eachstack.id);
+
+
 
 
   return (
